@@ -8,3 +8,7 @@ blazor-WebAssembly/bin/
 blazor-WebAssembly/obj/
 
 .vs/
+
+Api/bin/
+
+Api/obj/
