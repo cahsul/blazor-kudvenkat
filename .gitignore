@@ -6,3 +6,5 @@ blazor-Server/obj/
 blazor-WebAssembly/bin/
 
 blazor-WebAssembly/obj/
+
+.vs/
