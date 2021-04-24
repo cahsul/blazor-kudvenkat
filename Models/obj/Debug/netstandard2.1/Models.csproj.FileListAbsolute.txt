@@ -1,0 +1,9 @@
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\bin\Debug\netstandard2.1\Models.deps.json
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\bin\Debug\netstandard2.1\Models.dll
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\bin\Debug\netstandard2.1\Models.pdb
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\obj\Debug\netstandard2.1\Models.csprojAssemblyReference.cache
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\obj\Debug\netstandard2.1\Models.AssemblyInfoInputs.cache
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\obj\Debug\netstandard2.1\Models.AssemblyInfo.cs
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\obj\Debug\netstandard2.1\Models.csproj.CoreCompileInputs.cache
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\obj\Debug\netstandard2.1\Models.dll
+D:\_L_\blazor-kudvenkat\blazor-kudvenkat\Models\obj\Debug\netstandard2.1\Models.pdb
