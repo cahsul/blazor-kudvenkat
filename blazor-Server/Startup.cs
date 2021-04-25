@@ -32,6 +32,11 @@ namespace blazor_Server
             {
                 client.BaseAddress = new Uri("http://localhost:43740/");
             });
+
+            services.AddHttpClient<IDepartmentService, DepartmentService>(client =>
+            {
+                client.BaseAddress = new Uri("http://localhost:43740/");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
