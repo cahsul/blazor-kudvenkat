@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blazor-Server", "blazor-Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor-WebAssembly", "blazor-WebAssembly\blazor-WebAssembly.csproj", "{FC81CBBD-4172-49E1-9386-3D0B54E2A519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DB0DCF47-C281-4C62-92A6-0BD3B8A4C161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{DB0DCF47-C281-4C62-92A6-0BD3B8A4C161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{58681CF9-02A7-4967-A479-68F354083DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{58681CF9-02A7-4967-A479-68F354083DBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
