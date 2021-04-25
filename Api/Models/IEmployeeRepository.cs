@@ -15,5 +15,6 @@ namespace Api.Models
         Task<Employee> DeleteEmployee(int employeeId);
 
         Task<Employee> GetEmployeeByEmail(string email);
+        Task<IEnumerable<Employee>> Search(string name, Gender? gender);
     }
 }
