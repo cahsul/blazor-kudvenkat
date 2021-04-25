@@ -1,3 +1,4 @@
+using blazor_Server.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Hosting;
@@ -26,6 +27,11 @@ namespace blazor_Server
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
+
+            services.AddHttpClient<IEmployeeService, EmployeeService>(client =>
+            {
+                client.BaseAddress = new Uri("http://localhost:43740/");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
