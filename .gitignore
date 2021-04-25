@@ -12,3 +12,7 @@ blazor-WebAssembly/obj/
 Api/bin/
 
 Api/obj/
+
+Models/obj/
+
+Models/bin/
